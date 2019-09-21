@@ -13,7 +13,7 @@ The technologies used to develop this web app were diverse, the main ones being:
 - [React.js](https://reactjs.org/)
 - [MongoDB](https://www.mongodb.com/)
 
-### Instalation
+### Installation
 
  - You must create .env file after git clone for Database URI and JWT Secret Key
  - You must create .env file in client folder for API URL
