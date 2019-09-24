@@ -26,10 +26,6 @@ $ git clone https://github.com/tayfurunal/social-network-fullstack.git social-ne
 $ cd social-network
 $ npm install
 $ npm start
-
-$ cd client
-$ npm install
-$ npm start
 ```
 
 install client
